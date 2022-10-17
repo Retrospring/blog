@@ -30,7 +30,7 @@ We have a bunch of open issues with different degrees of difficulties marked, so
 
 Our costs currently average out at about $40 per month. As all team members work full-time, we can easily pay this out of our own pockets, but if our growth continues (or a certain website goes down again, or for good) we might need to scale our services up to handle more users.
 
-So, it's not required at the moment, but if you want to show your appreciation, a small donation would go a long way, or if you want, even a long time patronage!
+Although it's not required at the moment, but if you want to show your appreciation, a small donation would go a long way, or if you want, even a long time patronage!
 
 **Patreon:**
 Used by creators of all sorts, a common platform for something of our scale, [you can find our page here](https://github.com/sponsors/Retrospring/).
