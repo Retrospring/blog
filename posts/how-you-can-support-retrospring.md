@@ -1,6 +1,6 @@
 # How you can support Retrospring
 
-This post simply is an outline on how you can support our cause. We're not in any trouble, in case the release of this post might make you think so, we just thought it was time to do a quick write-up on the matter.
+This post is simply an outline of how you can support our cause. We're not in any trouble, in case the release of this post might make you think so, we just thought it was time to do a quick write-up on the matter.
 
 ## Spread the word
 
@@ -12,17 +12,17 @@ This doesn't seem like much, but we don't run any ads or push our service onto p
 
 ## Coding
 
-**You know how to code and want to help us out? Go right ahead!**
+**If you know how to code and want to help us out, go right ahead!**
 
-In case you didn't know, the entirity of the Retrospring codebase is open-source and available on GitHub for you to audit, read through and contribute to!
+In case you didn't know, the entirity of the Retrospring codebase is open-source and available on GitHub for anyone to audit, read through and contribute to!
 
-Our active team currently consists of three people which have full-time jobs at the side, so new features coming to Retrospring often depends on our free time, health and motivation. 
+Our active team currently consists of three people which have full-time jobs on the side, so new features coming to Retrospring often depends on our free time, health and motivation. 
 
 _More people helping out, even with small problems and suggestions can go a long way!_
 
 Retrospring is using Ruby on Rails as a framework, with the frontend being written in [HAML](https://haml.info/) (think Pug for Ruby), TypeScript and SCSS.
 
-We have a bunch of open issues with different degrees of difficulties marked, so if you feel adventurous you can give one a shot! If any problems arise, we can help you and once your changes have been submitted we will review and potentially merge them.
+We have a bunch of open issues with different degrees of difficulties marked, so if you feel adventurous you can give one a shot! If any problems arise, we can help you. Once your changes have been submitted, we will review and merge them when we're happy with them.
 
 ## Monetary Support
 
