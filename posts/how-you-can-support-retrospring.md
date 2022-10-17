@@ -1,6 +1,6 @@
 # How you can support Retrospring
 
-This post is simply an outline of how you can support our cause. We're not in any trouble, in case the release of this post might make you think so, we just thought it was time to do a quick write-up on the matter.
+This post is simply an outline of how you can support us. We're not in any trouble, in case the release of this post might make you think so, we just thought it was time to do a quick write-up on the matter.
 
 ## Spread the word
 
