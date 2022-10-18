@@ -2,6 +2,8 @@
 
 This post is simply an outline of how you can support us. We're not in any trouble, in case the release of this post might make you think so, we just thought it was time to do a quick write-up on the matter.
 
+<!--more-->
+
 ## Spread the word
 
 **Use the website, share your answers and tell people about Retrospring _(if you like it, of course)_.**
@@ -14,7 +16,7 @@ This doesn't seem like much, but we don't run any ads or push our service onto p
 
 **If you know how to code and want to help us out, go right ahead!**
 
-In case you didn't know, the entirity of the Retrospring codebase is open-source and available on GitHub for anyone to audit, read through and contribute to!
+In case you didn't know, the entirity of the Retrospring codebase is [open-source and available on GitHub](https://github.com/Retrospring/retrospring) for anyone to audit, read through and contribute to!
 
 Our active team currently consists of three people which have full-time jobs on the side, so new features coming to Retrospring often depends on our free time, health and motivation. 
 
@@ -32,13 +34,13 @@ Our costs currently average out at about $40 per month. As all team members work
 
 Although it's not required at the moment, but if you want to show your appreciation, a small donation would go a long way, or if you want, even a long time patronage!
 
-**Patreon:**
-Used by creators of all sorts, a common platform for something of our scale, [you can find our page here](https://github.com/sponsors/Retrospring/).
+**Patreon:**  
+Used by creators of all sorts, a common platform for something of our scale, [you can find our page here](https://www.patreon.com/retrospring).
 
-**GitHub Sponsors:**
+**GitHub Sponsors:**  
 Made available by the platform we host our code on, another option to support us either monthly, or with a one-time donation! [Here's the link!](https://github.com/sponsors/Retrospring/)
 
-**Open Collective:**
+**Open Collective:**  
 Another platform for larger projects and collectives to secure funding through continuous backing or one-time donations, [find it here](https://opencollective.com/retrospring)!
 
 So, you might ask yourself one...or two questions. _"Why are you not just showing ads?"_ and _"Why not add pro tiers to your website?"_. We could do that, but we don't like ads and we also do not like putting features behind a paywall. Simple as that.
